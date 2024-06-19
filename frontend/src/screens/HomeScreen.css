@@ -1,0 +1,9 @@
+/* HomeScreen.css */
+h1 {
+    color: #FFFFFF; /* White color for the heading */
+    font-family: 'Roboto', sans-serif; /* Assuming Roboto is the font you want */
+    font-size: 2.5rem; /* Adjust the size as needed */
+    font-weight: 700; /* Bold font weight for the heading */
+    text-align: center; /* Center the heading */
+    margin-bottom: 2rem; /* Add some space below the heading */
+  }
